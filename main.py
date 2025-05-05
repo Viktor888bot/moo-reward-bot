@@ -3,7 +3,7 @@ import time
 import telebot
 from datetime import datetime, timedelta
 
-API_TOKEN = '8136752285:AAFLKLDFt9PGkVDB1Rl4j0v4ks8PMqbKLWA'  # 
+API_TOKEN = '7623462991:AAHdAvrsn3Hzo34DR1J-4E3K4Xdwy32hhTs'  # 
 
 bot = telebot.TeleBot(API_TOKEN)
 
